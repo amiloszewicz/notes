@@ -1,6 +1,6 @@
-# workflow
+# typing-formats
 
-workflow, writing
+workflow, better writing, commits format, typing
 
 [Commit Message Format](./commit-message-format.md);
 

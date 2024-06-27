@@ -4,6 +4,8 @@ article, java script, features
 
 [[Source]](https://freedium.cfd/https://medium.com/coding-beauty/es15-javascript-features-fc2d1f7a00ce)
 
+TODO: transform notes to atomic
+
 1. native array group-by:
 
   > Object.groupBy():
